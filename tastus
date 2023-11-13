@@ -1,0 +1,139 @@
+[33mcommit 5fc9f149efe72ab2f578f29ffdc91101a7412ff6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Torin99 <torinwylder@gmail.com>
+Date:   Sun Nov 12 21:05:29 2023 -0500
+
+    add all models
+
+[33mcommit 938ca29c9a68f34b9885599cad69564c7533dd97[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 520309f88 e271851e5
+Author: Torin99 <torinwylder@gmail.com>
+Date:   Sun Nov 12 14:18:02 2023 -0500
+
+    merge
+
+[33mcommit e271851e57d6310a2867327fceb55b419738aa72[m
+Author: Melissa Pinto <57300923+meli1022@users.noreply.github.com>
+Date:   Sat Nov 11 23:08:18 2023 -0500
+
+    SVM
+
+[33mcommit 58c8a76a58ee8fd0b25cecb39f786e342fcca19c[m
+Author: Melissa Pinto <57300923+meli1022@users.noreply.github.com>
+Date:   Sat Nov 11 23:05:52 2023 -0500
+
+    SVM
+
+[33mcommit 659171abdd5024956da9f1490fd0857751d4bd39[m
+Author: Yvonne Itan <68035004+yvonneitan@users.noreply.github.com>
+Date:   Sat Nov 11 22:49:53 2023 -0500
+
+    Logistic Regression-Part updated
+
+[33mcommit 520309f886331ddb233ee0df4f8b603785c18ddc[m[33m ([m[1;31morigin/Torin[m[33m, [m[1;32mTorin[m[33m)[m
+Author: Torin99 <torinwylder@gmail.com>
+Date:   Sat Nov 11 22:18:39 2023 -0500
+
+    add dataset 2 and implement its random forest
+
+[33mcommit ed6f575e4279ba82317b366cd2526af278a35742[m
+Author: Yvonne Itan <68035004+yvonneitan@users.noreply.github.com>
+Date:   Sat Nov 11 20:31:34 2023 -0500
+
+    LogisticRegression Part Updated
+
+[33mcommit c167d21623f6e66e10a9ef31aa26a232d7baa45a[m
+Author: Melissa Pinto <57300923+meli1022@users.noreply.github.com>
+Date:   Sat Nov 11 16:36:56 2023 -0500
+
+    SVM Validation
+
+[33mcommit d11b3849b4d8a92e8831307acbe5893f545fa228[m
+Author: Torin99 <torinwylder@gmail.com>
+Date:   Sat Nov 11 15:27:15 2023 -0500
+
+    add randomforest for dataset 1, add validation pipeline
+
+[33mcommit b29bf122f818c757f877e7653f9c984d5e4570ec[m
+Author: Melissa Pinto <57300923+meli1022@users.noreply.github.com>
+Date:   Sat Nov 11 15:05:36 2023 -0500
+
+    Added SVM Validation
+
+[33mcommit 7b5e75e486ba9f66535a14ee833b3182406d7c6b[m
+Merge: 9e5c3b164 534b376f5
+Author: Torin99 <torinwylder@gmail.com>
+Date:   Fri Nov 10 18:26:20 2023 -0500
+
+    Merge branch 'main' of https://github.com/Torin99/MiniProject2
+
+[33mcommit 9e5c3b164647ef8b631929af5388c25a8a6e370c[m
+Author: Torin99 <torinwylder@gmail.com>
+Date:   Fri Nov 10 18:26:15 2023 -0500
+
+    add import
+
+[33mcommit 534b376f5eb603c5f69a99a9681eee40e0d32324[m
+Author: Royce-33 <adams.riley@rogers.com>
+Date:   Fri Nov 10 18:20:00 2023 -0500
+
+    First pass at a decision tree
+
+[33mcommit 67e415d885e8e0082ec8de00fef69ac96faae245[m
+Author: Royce-33 <adams.riley@rogers.com>
+Date:   Fri Nov 10 17:04:37 2023 -0500
+
+    Started working on decision tree classifier
+
+[33mcommit 780858f0d3ef68a66c57c43152f2bf8362223459[m
+Author: Yvonne Itan <68035004+yvonneitan@users.noreply.github.com>
+Date:   Thu Nov 9 22:18:15 2023 -0500
+
+    train subset reading update
+
+[33mcommit 02c94f3229c9c0173e76750f4d85c12c8e3711ad[m
+Author: Yvonne Itan <68035004+yvonneitan@users.noreply.github.com>
+Date:   Thu Nov 9 22:04:56 2023 -0500
+
+    Logistic Regression Updates
+
+[33mcommit 4ca7897d8ae8f133b4ca444b0b5ea14a75fc8849[m
+Author: Melissa Pinto <57300923+meli1022@users.noreply.github.com>
+Date:   Thu Nov 9 15:05:12 2023 -0500
+
+    SVM code for 20 Newsgroup
+
+[33mcommit 90779733da9df37740c2481892cad2ec70069383[m
+Author: Royce-33 <radams@DESKTOP-6SKEUSH>
+Date:   Wed Oct 25 18:41:34 2023 -0400
+
+    Attempting to push untarred IMDB data
+
+[33mcommit ddf6d14cd252fffcba4b70d431a63045afa62a67[m
+Author: grantw13 <78278076+grantw13@users.noreply.github.com>
+Date:   Wed Oct 25 17:16:38 2023 -0400
+
+    Create temp.txt
+
+[33mcommit 97d16462431b8d3ec457c4c60734c63678a1b666[m
+Author: grantw13 <78278076+grantw13@users.noreply.github.com>
+Date:   Wed Oct 25 17:16:15 2023 -0400
+
+    Create temp.txt
+
+[33mcommit e17bfdd2af114244a9b4dc9a39f0ad39e360f434[m
+Author: Torin99 <torinwylder@gmail.com>
+Date:   Wed Oct 25 13:50:06 2023 -0400
+
+    start dataset implementation
+
+[33mcommit e4ed22ebf2ea2bedfb6a906266fd3edb757e5f44[m
+Author: Torin99 <torinwylder@gmail.com>
+Date:   Wed Oct 25 13:49:45 2023 -0400
+
+    add imdb data file
+
+[33mcommit 6673f29ed43cf45d2de7cd81d44746ef5b352dd9[m
+Author: Torin99 <torinwylder@gmail.com>
+Date:   Wed Oct 25 09:11:24 2023 -0400
+
+    initial commit
